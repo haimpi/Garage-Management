@@ -16,8 +16,6 @@ This project is a Garage Management System implemented in C#. It allows for mana
 - Detailed management of vehicle properties and status.
 - Dynamic generation of property input prompts for vehicles.
 
-Open the solution in your preferred C# IDE (e.g., Visual Studio) and build the project.
-
 ## Usage
 
 After setting up the project, you can create and manage vehicles through the provided classes and methods. The system allows you to:
